@@ -6,7 +6,7 @@
 
 - Repo created
 
-  CHANGELOG added
+  CHANGELOG added with template
 
   For changes prior to this, refer to [commit history](https://github.com/srb3/terraform-aws-route53/commits/main)
 
